@@ -1,0 +1,8 @@
+.error{
+    width: 100%;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 15px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
